@@ -1,8 +1,5 @@
-
-
 # Jenny Mod – Minecraft Companion Mod Installer Pack  
-[![Stars](https://img.shields.io/github/stars/bobyugbjh/Jenny-Mod-Minecraft-PC-Edition)](https://github.com/bobyugbjh/Jenny-Mod-Minecraft-PC-Edition)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/bobyugbjh/Jenny-Mod-Minecraft-PC-Edition)](https://github.com/bobyugbjh/Jenny-Mod-Minecraft-PC-Edition)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Complete **Jenny Mod setup for Minecraft Java Edition** – includes the mod files, required dependencies, and an easy installer to quickly add the popular **AI companion NPC mod** to your game.
 
